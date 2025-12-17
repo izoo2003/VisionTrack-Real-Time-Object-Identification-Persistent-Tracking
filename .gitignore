@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# YOLO Model weights (Large files)
+*.pt
+
+# Video files (Large files)
+*.mp4
+*.avi
+*.mov
+
+# Local environment variables
+.env
