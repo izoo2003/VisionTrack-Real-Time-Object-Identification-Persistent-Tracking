@@ -15,14 +15,7 @@ VisionTrack is a high-performance computer vision system that integrates **YOLOv
 * **Live Analytics:** Real-time display of FPS (Frames Per Second) and a unique object counter.
 * **Visual Interface:** Clean UI with bounding boxes, object labels, and tracking IDs.
 
----
-
-## 📺 Demo
-
-
-[*(Drag and drop your "Video Demo.mp4" here while editing this file on GitHub to embed it!)*
-](https://drive.google.com/file/d/1KZARUOOEqEouDzDNwj3JNCsT_sc7FaS5/view?usp=sharing)
----
+---
 
 ## 🛠️ Installation & Setup
 
